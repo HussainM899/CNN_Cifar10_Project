@@ -61,4 +61,4 @@ Clone the project repository and install the necessary packages using:
 ```bash
 git clone https://github.com/<your-github-username>/CNN_CIFAR10.git
 cd CNN_CIFAR10
-pip install -r requirements.txt```
+pip install -r requirements.txt
