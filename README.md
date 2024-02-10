@@ -59,6 +59,6 @@ Contributions to this project are welcome! Please feel free to fork the reposito
 Clone the project repository and install the necessary packages using:
 
 ```bash
-git clone https://github.com/<your-github-username>/CNN_CIFAR10.git
+git clone https://github.com/<HussainM889>/CNN_CIFAR10.git
 cd CNN_CIFAR10
 pip install -r requirements.txt
